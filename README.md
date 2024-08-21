@@ -26,4 +26,14 @@ My Calendar Application is a customizable calendar application built with React.
    git clone https://github.com/yourusername/my-calendar-application.git
    cd my-calendar-application
    npm install
+   npm start
+
+2. **Install libraries**
+
+   ```bash
+   npm install
+   
+3. **Run**
+
+   ```bash
    npm start 

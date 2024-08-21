@@ -2,7 +2,7 @@
 
 ## Overview
 
-My Calendar Application is a customizable calendar application built with React and Next.js. It features an interactive calendar where users can view and manage events. The application uses `react-big-calendar` for calendar functionality and integrates custom SVG icons and styles for a tailored user experience.
+My Calendar Application is a customizable calendar application built with React.  The application uses `react-big-calendar` for calendar functionality and integrates custom SVG icons and styles for a tailored user experience.
 
 ## Features
 
@@ -20,10 +20,10 @@ My Calendar Application is a customizable calendar application built with React 
 - **SVG**: Scalable vector graphics for custom icons.
 
 ## Installation
-- **npm i**
-- **npm install**
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/yourusername/my-calendar-application.git
    cd my-calendar-application
+   npm install
+   npm start 

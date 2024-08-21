@@ -23,7 +23,7 @@ My Calendar Application is a customizable calendar application built with React.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/my-calendar-application.git
+   git clone https://github.com/yourusername/my-calendar-application.git](https://github.com/waqih/mosaik_calendar.git)
    cd my-calendar-application
    npm install
    npm start

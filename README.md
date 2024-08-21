@@ -1,4 +1,4 @@
-# My Calendar Application
+# Calendar Application
 
 ## Overview
 
